@@ -55,7 +55,7 @@ curl 'http://127.0.0.1:5000/api/reports/monthly?month=2026-09'
 ## Tests
 
 ```bash
-pytest
+python -m pytest
 ```
 
 ## Resume-ready description
